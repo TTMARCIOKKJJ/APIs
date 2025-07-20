@@ -63,7 +63,7 @@ app.get('/', async (req, res) => {
       <p>O embed será enviado para o canal do Discord configurado no webhook.</p>
       <p><strong>API rodando na porta ${port}.</strong></p>
       <p>Para mais informações, consulte a documentação da API no meu Discord.</p>
-      <a href="https://discord.gg/5FnERU8Q" target="_blank">🔗 Junte-se ao meu Discord</a>
+      <a href="https://discord.gg/5FnERU8Q" target="_blank">🔗 Junte-se ao meu Discord.</a>
     </body>
     </html>
   `);
